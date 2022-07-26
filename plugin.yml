@@ -1,0 +1,5 @@
+name: Erstric
+api: 5.0.0
+version: 1.0.0
+main: Krishvy\Erstric
+src-namespace-prefix: Krishvy
